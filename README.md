@@ -1,4 +1,7 @@
 # Websocket template
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/3b91dfda792033d26a22/maintainability)](https://codeclimate.com/github/nihitx/websocket-socket-io-node-template/maintainability) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f9a6c611499c42798164340de61f9b93)](https://www.codacy.com/app/nihitx/websocket-socket-io-node-template?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nihitx/websocket-socket-io-node-template&amp;utm_campaign=Badge_Grade)
+
 A template designed to get started with websockets for any projects. It is running on node js and has express js on top as a framework.
 ## Getting started!
 `Prerequisites`
